@@ -1,0 +1,15 @@
+{
+	"name": "scrape-airbnb-reviews",
+	"author": "Pat Shea",
+	"version": "1.0.0",
+	"description": "Scrapes reviews from Airbnb for the Karma Programming Test",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/thepatshea/scrape-airbnb-reviews.git"
+	},
+	"dependencies": {
+		"fs": "0.0.2",
+		"phantom": "^0.7.2"
+	},
+	"license": "ISC"
+}
