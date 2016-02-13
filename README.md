@@ -19,7 +19,7 @@ The [parameters.json](./parameters.json) file allows you to modify the program's
 1. <b>userId:</b>
   * <b>Purpose:</b> Decides which Airbnb user's reviews we will scrape
   * <b>Allowed Values:</b> Any Airbnb user's Id
-  * <b>Default Value:</b> "737319" (Kellee's Airbnb Id)
+  * <b>Default Value:</b> "737319"
 2. <b>outputToFile:</b>
   * <b>Purpose:</b> Decides whether or not we'll output the scraped reviews to a new JSON file
   * <b>Allowed Values:</b> "yes" or "no"
