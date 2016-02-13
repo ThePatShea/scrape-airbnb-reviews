@@ -1,7 +1,4 @@
 # Airbnb Review Scraper
-##### Created by Pat Shea for Karma's programming test
-
----
 
 ### Quick Start
 	
